@@ -1,6 +1,6 @@
 # BarberiaMovil2
 
-# Link del figma= https://www.figma.com/file/aaI0NG2qkk4jrAlEVeM461/marca-blanca?type=design&node-id=46%3A4&mode=design&t=CognYPnaqMhUPBjQ-1
+# Link del figma: https://www.figma.com/file/aaI0NG2qkk4jrAlEVeM461/marca-blanca?type=design&node-id=46%3A4&mode=design&t=CognYPnaqMhUPBjQ-1
 
 <p align="center" style="background: black">
    <a href="https://codewebbarcelona.com/wp-content/uploads/2019/01/logo-1.jpg" target="blank"><img src="https://codewebbarcelona.com/wp-content/uploads/2019/01/logo-1.jpg" width="200" alt="shimin Logo" /></a>
